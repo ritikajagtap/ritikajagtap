@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritikajagtap
 - 👀 I’m interested in CP and Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning MongoDB
 - 📫 How to reach me www.ritika.jagtap.2002@gmail.com
 
 <!---
